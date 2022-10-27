@@ -111,3 +111,9 @@
 - [매일 쓰는 babel-loader에 질렸다면 (ts-loader, esbuild-loader)](https://usage.tistory.com/152)
 - [우아한테크코스 레벨 4 절반 회고](https://blog-usageness.vercel.app/post/3)
 - [모임 서비스를 개발하며 (모두 모여라 개발기)](https://usage.tistory.com/154)
+
+## 🎙 테코톡
+### 유세지의 Node.js
+[![유세지의 Node.js](https://img.youtube.com/vi/A04zlpL1Uw4/0.jpg)](https://youtu.be/A04zlpL1Uw4)
+- Node.js란 무엇이고, 어떻게 등장했을까?
+- Javascript는 single thread인데, Node.js는 어떻게 여러가지 동작을 비동기로 처리할 수 있을까?
