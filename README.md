@@ -111,6 +111,7 @@
 - [매일 쓰는 babel-loader에 질렸다면 (ts-loader, esbuild-loader)](https://usage.tistory.com/152)
 - [우아한테크코스 레벨 4 절반 회고](https://blog-usageness.vercel.app/post/3)
 - [모임 서비스를 개발하며 (모두 모여라 개발기)](https://usage.tistory.com/154)
+- [Recoil + React-query 삽질기](https://usage.tistory.com/155)
 
 ## 🎙 테코톡
 ### 유세지의 Node.js
