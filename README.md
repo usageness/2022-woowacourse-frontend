@@ -79,9 +79,9 @@
 
 ### Youtube 📺
 
-| 1차 데모데이                                                                                  | 2차 데모데이                                                                                  | 3차 데모데이                                                                                  | 4차 데모데이                                                                                  |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [![1차 데모데이](https://img.youtube.com/vi/-86HlsrqgJY/0.jpg)](https://youtu.be/-86HlsrqgJY) | [![2차 데모데이](https://img.youtube.com/vi/FvhTuj_Cxvk/0.jpg)](https://youtu.be/FvhTuj_Cxvk) | [![3차 데모데이](https://img.youtube.com/vi/W5Rloao4zuQ/0.jpg)](https://youtu.be/W5Rloao4zuQ) | [![4차 데모데이](https://img.youtube.com/vi/Qa944GNc2ec/0.jpg)](https://youtu.be/Qa944GNc2ec) |
+| 1차 데모데이 | 2차 데모데이 | 3차 데모데이 | 4차 데모데이 | 5차 데모데이 |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [![1차 데모데이](https://img.youtube.com/vi/-86HlsrqgJY/0.jpg)](https://youtu.be/-86HlsrqgJY) | [![2차 데모데이](https://img.youtube.com/vi/FvhTuj_Cxvk/0.jpg)](https://youtu.be/FvhTuj_Cxvk) | [![3차 데모데이](https://img.youtube.com/vi/W5Rloao4zuQ/0.jpg)](https://youtu.be/W5Rloao4zuQ) | [![4차 데모데이](https://img.youtube.com/vi/Qa944GNc2ec/0.jpg)](https://youtu.be/Qa944GNc2ec) | [![5차 데모데이](https://img.youtube.com/vi/YgYHR5Hqk2M/0.jpg)](https://youtu.be/YgYHR5Hqk2M)
 
 ## 팀원👨‍💻👩‍💻
 
@@ -112,6 +112,14 @@
 - [우아한테크코스 레벨 4 절반 회고](https://blog-usageness.vercel.app/post/3)
 - [모임 서비스를 개발하며 (모두 모여라 개발기)](https://usage.tistory.com/154)
 - [Recoil + React-query 삽질기](https://usage.tistory.com/155)
+
+## ☀ 진행했던 스터디
+### 🐣 peep 자바스크립트 스터디
+- [바로가기](https://github.com/peep-peep-study/JS-peep-dive)
+- 매주 정해진 주제에 대해 학습하고, 서로 궁금했던 내용에 대해 질문하며 자바스크립트의 기본기를 다지는 스터디
+### 🐣 peep 네트워크 스터디
+- [바로가기](https://github.com/peep-peep-study/Network-peep-dive)
+- 함께 **그림으로 배우는 HTTP & Network Basic** 책을 읽으며 네트워크의 기본 지식을 나누는 스터디
 
 ## 🎙 테코톡
 ### 유세지의 Node.js
